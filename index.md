@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Grocery Manager Program](/sample_page)
-<img src="images/GroceryManagerApp.jpg?raw=true"/>
+<img src="images/GroceryManagerApp.png?raw=true"/>
 
 ---
 [Email Creator Program](/pdf/sample_presentation.pdf)
-<img src="images/Email.jpg?raw=true"/>
+<img src="images/Email.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
