@@ -4,7 +4,7 @@
 
 ### Projects 
 
-<a href="https://github.com/NicholasSutanto/email-app/">Grocery Manager Program</a>
+<a href="https://github.com/NicholasSutanto/email-app/blob/master/main.cpp">Grocery Manager Program</a>
 <img src="images/GroceryManagerApp.png?raw=true"/>
 
 ---
