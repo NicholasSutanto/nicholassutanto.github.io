@@ -8,7 +8,7 @@
 <img src="images/GroceryManagerApp.png?raw=true"/>
 
 ---
-[Email Creator Program](/pdf/sample_presentation.pdf)
+[Email Creator Program](/pdf/main.cpp)
 <img src="images/Email.png?raw=true"/>
 
 ---
