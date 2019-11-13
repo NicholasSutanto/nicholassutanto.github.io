@@ -4,11 +4,11 @@
 
 ### Projects 
 
-<a href="https://github.com/NicholasSutanto/email-app/blob/master/main.cpp">Grocery Manager Program</a>
+<a href="https://github.com/NicholasSutanto/grocery-manager">Grocery Manager Program</a>
 <img src="images/GroceryManagerApp.png?raw=true"/>
 
 ---
-[Email Creator Program](/pdf/main.cpp)
+<a href="https://github.com/NicholasSutanto/email-app/blob/master/main.cpp">Email Creator Program</a>
 <img src="images/Email.png?raw=true"/>
 
 ---
