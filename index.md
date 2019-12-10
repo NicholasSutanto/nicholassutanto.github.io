@@ -4,7 +4,7 @@
 
 ### Projects 
 
-<a href="https://github.com/NicholasSutanto/grocery-manager">Grocery Manager Program</a>
+<a href="https://github.com/NicholasSutanto/grocery-manager">Grocery Manager Program</a> (October 2017-December 2017)
 <img src="images/GroceryManagerApp.png?raw=true"/>
 
 ---
