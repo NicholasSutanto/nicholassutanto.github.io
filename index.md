@@ -9,7 +9,7 @@
 
 ---
 <a href="https://github.com/NicholasSutanto/email-app/blob/master/main.cpp">Email Creator Program</a>
-<img src="images/Email.png?raw=true"/>
+<img src="images/EmailApp.png?raw=true"/>
 
 ---
 
