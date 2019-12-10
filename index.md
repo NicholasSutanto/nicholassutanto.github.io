@@ -5,6 +5,10 @@
 ### Projects 
 
 <a href="https://github.com/NicholasSutanto/grocery-manager">Grocery Manager Program</a> (October 2017-December 2017)
+<br><br>
+  Team project with a group of three
+  <br><br>
+  Java
 <img src="images/GroceryManagerApp.png?raw=true"/>
 
 ---
