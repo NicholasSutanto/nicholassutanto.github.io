@@ -15,8 +15,9 @@
 ---
 <a href="https://github.com/NicholasSutanto/email-app/blob/master/main.cpp">Email Creator Program</a> (March 2019-June 2019)
 
-* Solo project
-* C++
+* Coursework
+   * Solo project
+   * C++
 
 <img src="images/EmailApp.png?raw=true"/>
 
