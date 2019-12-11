@@ -6,7 +6,7 @@
 
 <a href="https://github.com/NicholasSutanto/grocery-manager">Grocery Manager Program</a> (October 2017-December 2017)
 
-Course Project
+* Course Project
     * Team project with a group of three
     * Java
   
