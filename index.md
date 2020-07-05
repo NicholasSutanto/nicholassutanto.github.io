@@ -24,12 +24,14 @@
 <img src="images/EmailApp.png?raw=true"/>
 
 ---
-<a href="https://github.com/NicholasSutanto/email-app/blob/master/main.cpp">Simple Battleship Program</a> (March 2019-June 2019)
+<a href="https://github.com/NicholasSutanto/battleship-project">Simple Battleship Program</a> (March 2019-June 2019)
 
 * Coursework (Data Structures I)
    * A program that allows the user to play a simple battleship game.
    * Solo project but collaboration was allowed.
    * C++
+   
+<img src=""/>
 
 
 ---
