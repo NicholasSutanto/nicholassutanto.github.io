@@ -8,7 +8,7 @@
 
 * Course Project (Java I)
     * A program that allows the user to enter, delete and view groceries added to the “cart”.
-    * Team project with a group of three
+    * Team project with a group of three.
     * Java
   
 <img src="images/GroceryManagerApp.png?raw=true"/>
@@ -18,7 +18,7 @@
 
 * Coursework (Problem Solving and Programming)
    * A program that allows the user to enter credentials to help make an email.
-   * Solo project
+   * Solo project.
    * C++
 
 <img src="images/EmailApp.png?raw=true"/>
