@@ -24,7 +24,7 @@
 <img src="images/EmailApp.png?raw=true"/>
 
 ---
-<a href="https://github.com/NicholasSutanto/battleship-project">Simple Battleship Program</a> (March 2019-June 2019)
+<a href="https://github.com/NicholasSutanto/battleship-project">Simple Battleship Program</a> (March 2020-June 2020)
 
 * Course Project (Data Structures I)
    * A program that allows the user to play a simple battleship game.
@@ -35,6 +35,7 @@
 
 
 ---
+<a href="https://github.com/NicholasSutanto/tableau-dashboard">Tableau Dashboard</a> (March 2020-June 2020)
 * Coursework (Data Analytics and Visualization)
    * A dashboard of different graphs/models created from a data set.
    * Pair project.
