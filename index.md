@@ -31,7 +31,7 @@
    * Solo project but collaboration was allowed.
    * C++
    
-<img src=""/>
+<img src="images/battleship.png?raw=true"/>
 
 
 ---
