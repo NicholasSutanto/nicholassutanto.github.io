@@ -40,7 +40,7 @@
    * Pair project.
    * Tableau
    
-<img src="images/battleship.png?raw=true"/>
+<img src="images/sampledashboard.png?raw=true"/>
 
 ---
 
