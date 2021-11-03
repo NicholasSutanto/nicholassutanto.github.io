@@ -45,8 +45,14 @@
 
 ---
 
+### Internship 
 
-
+Internship with PT. Angkasa Raya Djambi (June 2019-August 2019)
+* Built a Data Dashboard and helped maintain a database.
+   * Used SQL to create specific queries.
+   * Updated records within the database daily.
+   * Assisted in implementing the database into the system. 
+   * Worked in maintaining the database daily.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> 
