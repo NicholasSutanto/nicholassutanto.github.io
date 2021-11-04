@@ -44,6 +44,17 @@
 <img src="images/sampledashboard.png?raw=true"/>
 
 ---
+NBA Database (March 2021-June 2021)
+* Coursework (Information and Database Systems)
+   * A dashboard with different options regarding statistics in the NBA.
+   * Pair project.
+   * LibreOffice/Microsoft Access
+   * SQL
+
+
+<img src=""/>
+
+---
 
 ### Internship 
 
