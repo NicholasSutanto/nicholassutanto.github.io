@@ -52,7 +52,7 @@ NBA Database (March 2021-June 2021)
    * SQL
 
 
-<img src="images/NBADatabase.png?raw=true"/>
+<img src="images/DatabaseNBA.png?raw=true"/>
 
 ---
 
