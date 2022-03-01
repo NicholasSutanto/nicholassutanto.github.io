@@ -44,7 +44,7 @@
 <img src="images/sampledashboard.png?raw=true"/>
 
 ---
-<a href="https://github.com/NicholasSutanto/nba-database-file">NBA Database (March 2021-June 2021)
+<a href="https://github.com/NicholasSutanto/nba-database-file">NBA Database</a> (March 2021-June 2021)
 * Coursework (Information and Database Systems)
    * A dashboard with different options regarding statistics in the NBA.
    * Pair project.
