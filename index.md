@@ -33,7 +33,6 @@
    
 <img src="images/battleship.png?raw=true"/>
 
-
 ---
 <a href="https://github.com/NicholasSutanto/tableau-dashboard">Tableau Dashboard</a> (March 2020-June 2020)
 * Course Project (Data Analytics and Visualization)
@@ -42,6 +41,17 @@
    * Tableau
    
 <img src="images/sampledashboard.png?raw=true"/>
+
+---
+GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposal">system proposal</a> and a <a href="https://github.com/NicholasSutanto/GoGoGrocerySpecification">specifiation</a> (September 2020-November 2020)
+* Course Project (Systems Design)
+   * Created a system proposal and system specification documents for a mobile application called GoGoGrocery. (Note: The application was not developed, only the     proposal and specification).
+   * Solo project.
+   * Learned how to write a complete system proposal and system specification document in a simulated professional setting.
+   * GoGoGrocery is a grocery delivery application.
+
+
+<img src="images/GoGoGroceryProposal.png?raw=true"/>
 
 ---
 <a href="https://github.com/NicholasSutanto/nba-database-file">NBA Database</a> (March 2021-June 2021)
@@ -53,17 +63,6 @@
 
 
 <img src="images/DatabaseNBA.png?raw=true"/>
-
----
-<a href="">GoGoGrocery system proposal and specifiation</a> (March 2021-June 2021)
-* Course Project (Systems Design)
-   * Created a system proposal and system specification documents for a mobile application called GoGoGrocery. (Note: The application was not developed, only the     proposal and specification).
-   * Solo project.
-   * Learned how to write a complete system proposal and system specification document in a simulated professional setting.
-   * GoGoGrocery is a grocery delivery application.
-
-
-<img src=""/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> 
