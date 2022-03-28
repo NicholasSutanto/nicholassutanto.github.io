@@ -43,7 +43,7 @@
 <img src="images/sampledashboard.png?raw=true"/>
 
 ---
-GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposal">system proposal</a> and a <a href="https://github.com/NicholasSutanto/GoGoGrocerySpecification">specifiation</a> (September 2020-November 2020)
+GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposal">system proposal</a>and<a href="https://github.com/NicholasSutanto/GoGoGrocerySpecification">specifiation</a> (September 2020-November 2020)
 * Course Project (Systems Design)
    * Created a system proposal and system specification documents for a mobile application called GoGoGrocery. (Note: The application was not developed, only the     proposal and specification).
    * Solo project.
