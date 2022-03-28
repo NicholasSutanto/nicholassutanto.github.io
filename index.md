@@ -36,7 +36,7 @@
 
 ---
 <a href="https://github.com/NicholasSutanto/tableau-dashboard">Tableau Dashboard</a> (March 2020-June 2020)
-* Coursework (Data Analytics and Visualization)
+* Course Project (Data Analytics and Visualization)
    * A dashboard of different graphs/models created from a data set.
    * Pair project.
    * Tableau
@@ -49,13 +49,21 @@
    * A dashboard with different options regarding statistics in the NBA.
    * Pair project.
    * LibreOffice/Microsoft Access
-   * SQL
+   * SQL queries
 
 
 <img src="images/DatabaseNBA.png?raw=true"/>
 
 ---
+<a href="">GoGoGrocery system proposal and specifiation</a> (March 2021-June 2021)
+* Course Project (Systems Design)
+   * Created a system proposal and system specification documents for a mobile application called GoGoGrocery. (Note: The application was not developed, only the     proposal and specification).
+   * Solo project.
+   * Learned how to write a complete system proposal and system specification document in a simulated professional setting.
+   * GoGoGrocery is a grocery delivery application.
 
+
+<img src=""/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> 
