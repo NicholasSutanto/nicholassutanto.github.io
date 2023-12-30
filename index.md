@@ -37,7 +37,7 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 
 ---
 
-<a href="">Police Shootings in the US</a> (March 2023-June 2023)
+<a href="https://github.com/NicholasSutanto/TableauPoliceShootings">Police Shootings in the US</a> (March 2023-June 2023)
 * Course Project (Data Visualization)
    * Created a dashboard in Tableau displaying models/graphs about the data.
    * Solo project.
@@ -47,7 +47,7 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 
     ---
 
-<a href="">Counter Strike: Global Offensive Data Visualization</a> (March 2023-June 2023)
+<a href="https://github.com/NicholasSutanto/PowerBIcsgo">Counter Strike: Global Offensive Data Visualization</a> (March 2023-June 2023)
 * Course Project (Data Visualization)
    * Created a dashboard in PowerBI displaying charts based on the data.
    * Learned how to use PowerBI to visualize data.
