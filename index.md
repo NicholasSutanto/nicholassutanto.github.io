@@ -45,6 +45,9 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
    * Learned how to clean data
    * Used multiple types of charts.
 
+     
+<img src="images/PoliceShootings.png?raw=true"/>
+  
     ---
 
 <a href="https://github.com/NicholasSutanto/PowerBIcsgo">Counter Strike: Global Offensive Data Visualization</a> (March 2023-June 2023)
@@ -53,6 +56,10 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
    * Learned how to use PowerBI to visualize data.
    * Learned how to filter data within PowerBI.
    * Understood the importance of visualizing data to others.
- 
+     
+     
+<img src="images/CSGOPlayers.png?raw=true"/>
+
+    ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> 
 <!-- Remove above link if you don't want to attibute -->
