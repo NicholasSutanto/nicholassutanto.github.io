@@ -38,6 +38,19 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 ---
 
 <a href="https://github.com/NicholasSutanto/TableauPoliceShootings">Police Shootings in the US</a> (March 2023-June 2023)
+* Course Project (Database Management and Warehousing)
+   * Created a database in Microsoft Access.
+   * Solo project.
+   * Learned how to create ERDs and Schemas for the database.
+   * Learned how to use SQL to filter data.
+   * Learned how to create reports, and queries in Microsoft Access
+   
+
+<img src="images/.png?raw=true"/>
+  
+    ---
+    
+<a href="https://github.com/NicholasSutanto/TableauPoliceShootings">Police Shootings in the US</a> (March 2023-June 2023)
 * Course Project (Data Visualization)
    * Created a dashboard in Tableau displaying models/graphs about the data.
    * Solo project.
