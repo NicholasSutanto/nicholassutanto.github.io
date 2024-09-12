@@ -37,7 +37,7 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 
 ---
 
-<a href="https://github.com/NicholasSutanto/TableauPoliceShootings">Police Shootings in the US</a> (March 2023-June 2023)
+<a href="https://github.com/NicholasSutanto/TableauPoliceShootings">Hobby Store Database</a> (January 2023-March 2023)
 * Course Project (Database Management and Warehousing)
    * Created a database in Microsoft Access.
    * Solo project.
@@ -74,5 +74,19 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 <img src="images/CSGOPlayers.png?raw=true"/>
 
     ---
+
+<a href="https://github.com/NicholasSutanto/">Vehicle Sales Dashboard Final Project</a> (June 2024-August 2024)
+* Course Project (Decision-Making with Data)
+   * Created a dashboard in PowerBI to visualize a dataset and make decisions.
+   * Solo project.
+   * Learned how to clean and filter data in Python.
+   * Learned how to use machine learning algorithms.
+   * Learned how to make decisions based on what the data tells us.
+   
+
+<img src="images/.png?raw=true"/>
+  
+    ---
+    
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> 
 <!-- Remove above link if you don't want to attibute -->
