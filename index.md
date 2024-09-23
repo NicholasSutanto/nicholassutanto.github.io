@@ -36,8 +36,7 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 <img src="images/DatabaseNBA.png?raw=true"/>
 
 ---
-
-<a href="https://github.com/NicholasSutanto/TableauPoliceShootings">Hobby Store Database</a> (January 2023-March 2023)
+<a href="https://github.com/NicholasSutanto/HobbyStoreDatabase">Hobby Store Database</a> (January 2023-March 2023)
 * Course Project (Database Management and Warehousing)
    * Created a database in Microsoft Access.
    * Solo project.
@@ -46,10 +45,9 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
    * Learned how to create reports, and queries in Microsoft Access
    
 
-<img src="images/.png?raw=true"/>
+<img src="images/HobbyStoreDB.png?raw=true"/>
   
-    ---
-    
+    --- 
 <a href="https://github.com/NicholasSutanto/TableauPoliceShootings">Police Shootings in the US</a> (March 2023-June 2023)
 * Course Project (Data Visualization)
    * Created a dashboard in Tableau displaying models/graphs about the data.
@@ -62,7 +60,6 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 <img src="images/PoliceShootings.png?raw=true"/>
   
     ---
-
 <a href="https://github.com/NicholasSutanto/PowerBIcsgo">Counter Strike: Global Offensive Data Visualization</a> (March 2023-June 2023)
 * Course Project (Data Visualization)
    * Created a dashboard in PowerBI displaying charts based on the data.
@@ -74,8 +71,7 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
 <img src="images/CSGOPlayers.png?raw=true"/>
 
     ---
-
-<a href="https://github.com/NicholasSutanto/">Vehicle Sales Dashboard Final Project</a> (June 2024-August 2024)
+<a href="https://github.com/NicholasSutanto/VehicleSalesDashboard">Vehicle Sales Dashboard Final Project</a> (June 2024-August 2024)
 * Course Project (Decision-Making with Data)
    * Created a dashboard in PowerBI to visualize a dataset and make decisions.
    * Solo project.
@@ -84,9 +80,8 @@ GoGoGrocery <a href="https://github.com/NicholasSutanto/GoGoGrocerySystemProposa
    * Learned how to make decisions based on what the data tells us.
    
 
-<img src="images/.png?raw=true"/>
+<img src="images/VehicleSalesDashboard.png?raw=true"/>
   
-    ---
-    
+    ---  
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> 
 <!-- Remove above link if you don't want to attibute -->
